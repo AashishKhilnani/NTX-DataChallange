@@ -10,5 +10,7 @@ This gives us a total of 9 frequency domain features per signal.
 
 Moreover, we also extracted the correlation between the two signals. Thus we have a total of  2(33+9)+1=85 features. 
 
+Among all the classifiers that we used, RandomForest gave us the best F1 Score. Thus we implemented the RandomForest for classification. 
+
 The Python notebook is given in the repository. 
 
